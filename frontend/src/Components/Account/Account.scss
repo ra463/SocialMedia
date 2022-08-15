@@ -177,19 +177,8 @@
   flex-wrap: wrap;
   align-items: center;
   margin: auto;
-  // padding: 2vmax;
-  // justify-content: space-evenly;
-  // height: 85%;
-  margin-top: -33rem;
   transition: 0.5s all;
   transform: translateY(-100%) translateX(-100vmax);
-
-  @media (max-width: 1023px) {
-    margin-top: -66rem;
-  }
-  @media (max-width: 768px) {
-    margin-top: -99rem;
-  }
 }
 .post {
   width: 13rem;
